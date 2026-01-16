@@ -37,8 +37,12 @@ ________________________________________
 🎯 Outcome & Value
 The dashboard enables:
 ✔ Visibility into peak operational loads
+
 ✔ Identification of energy-intensive machines and shifts
+
 ✔ Better scheduling decisions to reduce peak costs
+
 ✔ Insightful reporting for industrial process optimization
+
 ✔ Reduced manual effort through automated data visualization
 
