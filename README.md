@@ -36,6 +36,7 @@ A home landing page with custom icons allows smooth, intuitive navigation to eac
 ________________________________________
 🎯 Outcome & Value
 The dashboard enables:
+
 ✔ Visibility into peak operational loads
 
 ✔ Identification of energy-intensive machines and shifts
