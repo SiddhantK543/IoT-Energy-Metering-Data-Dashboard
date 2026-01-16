@@ -1,4 +1,4 @@
-# IoT-Energy-Metering-Data-Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e8ce120-d2cb-486c-8c5f-72b1917365f4" /># IoT-Energy-Metering-Data-Dashboard
 Energy Consumption Dashboard (Power BI)
 This project focuses on analysing and visualizing energy consumption patterns across multiple devices, shifts, and time periods using Power BI. The objective is to identify usage trends, peak load hours, and high-consumption devices to support operational efficiency and cost optimization.
 The dataset includes timestamped energy consumption data segmented by device category (Motor, HVAC, Lighting), shifts, weekdays/weekends, and hourly usage profiles. Data was processed, cleaned, and modelled in Power BI using DAX measures and calculated fields.
@@ -11,6 +11,9 @@ Provides insights into how energy consumption varies across different days of th
 •	Weekday vs weekend comparison
 •	Hourly time-series visualization
 This helps identify consistent usage patterns and high-load operating days.
+<img width="1423" height="803" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/c59da921-5b92-420e-aabc-2f0fb07649de" />
+
+
 ________________________________________
  2. Peak Hours
 This page identifies the hours and shifts responsible for the highest consumption. It includes:
